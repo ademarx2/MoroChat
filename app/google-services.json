@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49653879061",
+    "firebase_url": "https://chat-cbdac.firebaseio.com",
+    "project_id": "chat-cbdac",
+    "storage_bucket": "chat-cbdac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49653879061:android:b366c328e62266c9",
+        "android_client_info": {
+          "package_name": "com.rameda.morochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49653879061-hoi4n8930ft6hlqhe0edbpe724kdsb5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rameda.morochat",
+            "certificate_hash": "11d557b7c2cb46e4cfc2dcd05ff07222d648ca95"
+          }
+        },
+        {
+          "client_id": "49653879061-amlnog40vnrd7d77buvp19ar2okk8lg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIG-JSVBQTppvXJwLz9jRkEIOhj2P-XRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49653879061-amlnog40vnrd7d77buvp19ar2okk8lg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
